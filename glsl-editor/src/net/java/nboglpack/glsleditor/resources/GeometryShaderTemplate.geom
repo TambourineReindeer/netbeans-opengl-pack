@@ -1,7 +1,6 @@
 /*
- *
- * @author ${user}
- */
+* geometry shader template
+*/
 
 #version 120 
 #extension GL_EXT_geometry_shader4 : enable 
